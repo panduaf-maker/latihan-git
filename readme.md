@@ -1,4 +1,4 @@
-# latihan folder git saya
+# catatan belajar git
 ini adalah latihan git saya
 
 # fitur login
